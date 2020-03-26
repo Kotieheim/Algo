@@ -1,4 +1,15 @@
-/* 
+/*
+Even the Odds
+
+For this set of positive numbers [1, 4, 5, 6, 21, 34, 3, 27, 32], write a 
+function that returns a new array where each even number is the previous 
+number and the next number multiplied together and each odd number is the 
+previous number and the next number added together. For example, in an array 
+of [3,6,9] for the number 6 you would multiply 3 * 9 and replace the 6 in 
+the array with the number 27. For undefined values, reat them as 1's.
+*/
+
+/* pseudo code 
 each even number is replaced with previous number and next number
 MULTIPLIED together.
 
