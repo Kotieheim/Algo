@@ -32,5 +32,5 @@ function evenTheOdds(arr) {
   return endArr;
 }
 // console.log(evenTheOdds([1, 4, 5, 6, 21, 34, 3, 27, 32]));
-// expect output = [2, 5, 10, 105, 40, ]
+// expected output = [2, 5, 10, 105, 40, 63, 61, 35, 33];
 console.log(evenTheOdds([3, 6, 9]));
